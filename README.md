@@ -1,1 +1,1 @@
-# Find GCD (Greatest Common Divisor) of 
+# Find GCD (Greatest Common Divisor) of Two Numbers:
