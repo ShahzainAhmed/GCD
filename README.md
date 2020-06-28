@@ -1,1 +1,1 @@
-# Find GCD (Greatest C
+# Find GCD (Greatest Common Div
