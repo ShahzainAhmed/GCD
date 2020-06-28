@@ -1,2 +1,1 @@
-# GCD
-Find GCD of Two numbers.
+# Find 
