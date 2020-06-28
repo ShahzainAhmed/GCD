@@ -1,1 +1,1 @@
-# Find GCD (Greatest Common Div
+# Find GCD (Greatest Common Divisor) 
